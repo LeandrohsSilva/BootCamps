@@ -5,7 +5,7 @@ Os desafios foram desenvolvidos em **Java** com objetivo de atingir a resoluçã
 |SID    |SUBMODULE                                      |LEVEL		 |CHALLENGE                                         |FILE 	 | CHECK        |
 |:----: |:----                                          |:----		 | :----                                            |:----	 | :----:       |
 |SCC-1	|Explorando a Sintaxe Java na Prática           |BASIC 		 |			                                         |           |		          |
-|  	    |                                               |			 |[Gerador de Identificadores Únicos](SJ-01.java)|SJ-01          | :white_check_mark:|
+|  	    |                                               |			 |[Gerador de Identificadores Únicos](SJ-01)|SJ-01          | :white_check_mark:|
 |  	    |                                               |			 |[Normalizador de URLs](SJ-02java)             |SJ-02           | :white_check_mark:|
 |SCC-2	|Dominando a Programação Orientada a Objetos    |BASIC 		 |			                                         |       		                |
 |  	    |                                               |			 |[Criando um Sistema de Pedidos de Loja Virtual](SJ-03.java) |SJ-03 | :white_check_mark:|
